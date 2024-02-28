@@ -24,4 +24,4 @@ Let's understand the folder structure of our project
       - Display of a message based on the visibility state.
   - `App.js`:
       - The `App.js` file is the main application component that uses the `Event` component.
-      - It serves as the entry point for rendering the event handling example.
+      - It serves as the `entry point` for rendering the event handling example.
