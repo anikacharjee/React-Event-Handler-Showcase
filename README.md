@@ -22,4 +22,6 @@ Let's understand the folder structure of our project
       - State management using `useState` for tracking the visibility of a message.
       - A button with an `onClick` event handler to toggle the visibility state.
       - Display of a message based on the visibility state.
-  - `App.js`: The main application component.
+  - `App.js`:
+      - The `App.js` file is the main application component that uses the `Event` component.
+      - It serves as the entry point for rendering the event handling example.
