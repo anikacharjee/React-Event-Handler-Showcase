@@ -18,5 +18,8 @@ Visit `http://localhost:3000` in your browser to view the application.
 Let's understand the folder structure of our project
 
 - `src`: Contains the source code of the React application.
-  - `Event.js`: A React component demonstrating event handling.
+  - `Event.js`: A React component demonstrating event handling. It includes :-
+      - State management using `useState` for tracking the visibility of a message.
+      - A button with an `onClick` event handler to toggle the visibility state.
+      - Display of a message based on the visibility state.
   - `App.js`: The main application component.
